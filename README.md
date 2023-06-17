@@ -1,8 +1,8 @@
-# Proptech Analysis: San Francisco Real Estate
-This project aims to analyze the real-estate market in San Francisco using data visualization techniques. The goal is to identify viable investment opportunities as a proptech company that offers an instant, one-click service for buying and renting properties.
+# Proptech Analysis: San Francisco Real-Estate
+The aim of this project is to analyze the real-estate market in San Francisco using data visualization methods. The goal is to identify possible investment opportunities as a proptech company that offers an instant, one-click service for buying and renting properties.
 
 ## About
-PropTech is a domain in the FinTech industry that applies technologies to real-estate markets. In this project, data from the San Francisco real-estate market will be used as a trial. This project will make use of the hvPlot and GeoViews packages in Python to create visualizations. By applying data visualization techniques, it is possible to uncover valuable insights about the market and discover potential investment opportunities. This could become a valuable tool that simplifies and streamlines the process of buying real-estate and renting properties.  
+PropTech is a domain in the FinTech industry that applies technologies to real-estate markets. In this project, data from the San Francisco real-estate market will be used as a trial. This project, if successful, can then be expanded to support other cities in the future. The main Python packages that will be used to create visualizations are hvPlot and GeoViews. By applying data visualization methods, it is possible to decipher valuable information about the market and discover potential investment opportunities. This could become a valuable tool that simplifies and streamlines the process of buying real-estate and renting properties.  
 
 ## Getting Started
 To run the Jupyter notebook and interact with the visualizations, you need to have the following software and Python libraries installed:
